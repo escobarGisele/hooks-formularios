@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hooks-formularios/static/css/main.856a4d7c.chunk.css",
+    "main.js": "/hooks-formularios/static/js/main.0d1c7e00.chunk.js",
+    "main.js.map": "/hooks-formularios/static/js/main.0d1c7e00.chunk.js.map",
+    "runtime-main.js": "/hooks-formularios/static/js/runtime-main.d47e1106.js",
+    "runtime-main.js.map": "/hooks-formularios/static/js/runtime-main.d47e1106.js.map",
+    "static/js/2.3a91267f.chunk.js": "/hooks-formularios/static/js/2.3a91267f.chunk.js",
+    "static/js/2.3a91267f.chunk.js.map": "/hooks-formularios/static/js/2.3a91267f.chunk.js.map",
+    "static/js/3.f851fe44.chunk.js": "/hooks-formularios/static/js/3.f851fe44.chunk.js",
+    "static/js/3.f851fe44.chunk.js.map": "/hooks-formularios/static/js/3.f851fe44.chunk.js.map",
+    "index.html": "/hooks-formularios/index.html",
+    "static/css/main.856a4d7c.chunk.css.map": "/hooks-formularios/static/css/main.856a4d7c.chunk.css.map",
+    "static/js/2.3a91267f.chunk.js.LICENSE.txt": "/hooks-formularios/static/js/2.3a91267f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47e1106.js",
+    "static/js/2.3a91267f.chunk.js",
+    "static/css/main.856a4d7c.chunk.css",
+    "static/js/main.0d1c7e00.chunk.js"
+  ]
+}
